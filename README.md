@@ -96,3 +96,15 @@ If you make any changes, run ```go fmt ./...``` before submitting a pull request
 Copyright ©‎ 2014 - 2017, Ian Kent (http://iankent.uk)
 
 Released under MIT license, see [LICENSE](LICENSE.md) for details.
+
+
+CODEIGNITER
+```
+			'protocol' => 'smtp',
+			'smtp_host' => '68.183.236.29',
+			'smtp_port' => '1025',
+		    // 'smtp_user' => 'xxx',
+		    // 'smtp_pass' => 'xxx',
+			'mailtype' => 'html',
+			'newline' => "\r\n",
+ ```
